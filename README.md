@@ -1,4 +1,4 @@
-# Data_Science-Machine_Learning
+# Data Science
 
 ## Learning
 * [kaggle](https://www.kaggle.com/)
@@ -9,3 +9,7 @@
 ## Tools
 * [CodaLab](https://worksheets.codalab.org/home)
 * [Jupyter](https://jupyter.org/)
+* [Apache Pig](https://pig.apache.org/)
+* [Apache Hadoop](http://hadoop.apache.org/)
+
+# Machine Learning
