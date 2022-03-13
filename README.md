@@ -17,3 +17,4 @@
 * [Pytorch](https://pytorch.org/)
 * [Analytics India Mag](https://analyticsindiamag.com/)
 * [Hatari Labs](https://hatarilabs.com/cu-en)
+* [Data Talks](https://datatalks.club/)
