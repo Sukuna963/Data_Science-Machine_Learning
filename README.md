@@ -16,3 +16,4 @@
 # Machine Learning
 * [TensorFlow](https://www.tensorflow.org/resources/learn-ml?gclid=Cj0KCQiAybaRBhDtARIsAIEG3klNgvz2LnqWav8whRcYv_JFOWssatUBJg9JAUKluR71Cy35iRPqsIwaAoh3EALw_wcB)
 * [Pytorch](https://pytorch.org/)
+* [Analytics India Mag](https://analyticsindiamag.com/)
