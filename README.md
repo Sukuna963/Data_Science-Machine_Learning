@@ -4,6 +4,7 @@
 * [Machine Hack](https://machinehack.com/home)
 * [Free For Dev](https://free-for.dev/#/)
 * [Open Data](https://opendatacommons.org/licenses/pddl/)
+* [Analytics Vidhya](https://courses.analyticsvidhya.com/?utm_source=feed)
 
 ## Tools
 * [CodaLab](https://worksheets.codalab.org/home)
