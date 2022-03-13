@@ -5,6 +5,7 @@
 * [Driven Data](https://www.drivendata.org/)
 * [Machine Hack](https://machinehack.com/home)
 * [Free For Dev](https://free-for.dev/#/)
+* [Open Data](https://opendatacommons.org/licenses/pddl/)
 
 ## Tools
 * [CodaLab](https://worksheets.codalab.org/home)
