@@ -18,3 +18,4 @@
 * [Analytics India Mag](https://analyticsindiamag.com/)
 * [Hatari Labs](https://hatarilabs.com/cu-en)
 * [Data Talks](https://datatalks.club/)
+* [MLOps](https://ml-ops.org/)
