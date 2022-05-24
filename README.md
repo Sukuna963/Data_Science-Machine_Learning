@@ -19,3 +19,4 @@
 * [Hatari Labs](https://hatarilabs.com/cu-en)
 * [Data Talks](https://datatalks.club/)
 * [MLOps](https://ml-ops.org/)
+* [Eval.ai](https://eval.ai/challenges/all)
