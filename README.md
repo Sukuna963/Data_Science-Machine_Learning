@@ -21,3 +21,4 @@
 * [MLOps](https://ml-ops.org/)
 * [Eval.ai](https://eval.ai/challenges/all)
 * [Gym Documentation](https://www.gymlibrary.ml/content/environment_creation/)
+* [Machine Learning in cybersecurity](https://www.kaspersky.com/enterprise-security/wiki-section/products/machine-learning-in-cybersecurity#:~:text=Kaspersky%20Lab's%20multi%2Dlayered%2C%20next,for%20behavioral%20detection%20that%20will)
